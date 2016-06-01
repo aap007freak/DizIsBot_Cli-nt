@@ -1,0 +1,11 @@
+TWITCH:
+	username: DIZISBOT
+	password: randomPass
+	oauth: oauth:9emzjm72qpf3gloey4sa6v5vu4uztm
+	
+GOOGLE:
+	first name: DizIs
+	last name: Bot
+	username: dizisbot
+	password: iloveKappa
+	email: dizisbot@gmail.com
